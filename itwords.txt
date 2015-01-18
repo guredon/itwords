@@ -310,19 +310,16 @@ AAC
 aacPlus
 AACS
 ABAP
-ABC (Atanasoff-Berry Computer)
 ABC
 ABC分析
 ABEND
-ABR (Area Border Router)
-ABR (Average Bit Rate)
-ABR (Adaptive Bit Rate)
+ABR
 abstractクラス
 A/Bテスト
 AC
-AC (実コスト)
 AC-3
 AC’97
+access
 Access
 Access VBA
 ACCS
@@ -333,13 +330,13 @@ ACK
 ACL
 ACMS
 ACPI
-ACR (Automatic Carrier Routing)
-ACR (Advanced Communication Riser)
+ACR
 Acrobat
 Acrobat Reader
 ActionScript
 Active Desktop
 Active Directory
+Active Server Pages
 Active-Passive構成
 ActivePerl
 Active-Standby構成
@@ -349,10 +346,11 @@ ACT-SBY構成
 ACT系
 ACアダプタ
 AD
-ADC (Analog Digital Converter)
-ADC (Application Delivery Controller)
+ADC
 ADF
 AD.JPドメイン
+Adapter Fault Tolerance
+Adaptive Bit Rate
 ADNW
 ADO
 Adobe
@@ -368,21 +366,25 @@ Adobe Photoshop
 Adobe Reader
 Adobe RGB
 Adobe Shockwave
+Adobe Type Manager
 ADO.NET
 ADPCM
 AdSense
 ADSL
 ADSLモデム
 ADT
+Advanced Communication Riser
+Advanced Format Technology
+Advanced Packaging Tool
+Advanced Persistent Threats
 AdWords
 A/Dコンバータ
-ADサーバ (ドメインコントローラ) 
-ADサーバ (アドサーバ)
+ADサーバ
 Aero
 AES
+Affiliate Service Provider
 AFK
-AFT (Adapter Fault Tolerance)
-AFT (Advanced Format Technology)
+AFT
 AGP
 A-GPS
 AH
@@ -414,11 +416,13 @@ AMD Eシリーズ
 AMD FX
 AMD Phenom
 AMD-V
+America Online
 AMI
 AMO
 AMOLED
 AMR
 AMT
+Analog Digital Converter
 AND
 Android
 Android NDK
@@ -432,8 +436,8 @@ ANSI
 Ant
 Antinny
 ANY接続
-AOL (America Online)
-AoL (Alert on LAN)
+AOL
+AoL
 AOP
 AOSS
 AP
@@ -450,16 +454,17 @@ Apple iOS
 Apple Lossless
 AppleTalk
 Appleキー
+Application Delivery Controller
+Application Service Provider
 App Store
 APS
-APT (Advanced Packaging Tool) 
-APT (Advanced Persistent Threats)
+APT
 APU
 APサーバ
 APフィッシング
 APモード
 AR
-AR (Augmented Reality)
+Area Border Router
 ARIB
 ARM
 ARP
@@ -481,28 +486,26 @@ ASIC
 As-Is
 ASK
 ASN.1
-ASP (Active Server Pages)
-ASP (Application Service Provider)
 ASP
-ASP (Affiliate Service Provider)
 ASP.NET
 ASPサービス
 ASSP
 ASSY
+asterisk
 Asterisk
+Asynchronous Transfer Mode
 AS番号
 ATA
 ATA-33
 ATA-4
+Atanasoff-Berry Computer
 ATAPI
 Athlon
 ATI Catalyst
-ATM (Adobe Type Manager)
-ATM (Asynchronous Transfer Mode)
+ATM
 ATMセル
 ATO
 ATOK
-Atom ()
 Atom
 ATRAC
 ATRAC3
@@ -512,9 +515,11 @@ AT互換機
 ATコマンド
 au
 au 4G LTE
+Augmented Reality
 AUP
 Authenticode
 AutoIP
+Automatic Carrier Routing
 AutoMDI/MDI-X
 AUTORUN.INF
 AV
@@ -523,6 +528,7 @@ AVCHD
 AVCREC
 AVI
 AV仕様ファミリーコンピュータ
+Average Bit Rate
 awk
 AWS
 AWT
@@ -641,7 +647,7 @@ bps
 BPSK
 BREW
 BRI
-BS (Broadcasting Satellite)
+Broadcasting Satellite
 BS
 BSA
 BSC
@@ -675,6 +681,7 @@ C2C
 C2K
 CA
 CAB
+cache file
 CAD
 CADインストラクター認定試験
 CAD利用技術者試験
@@ -686,24 +693,28 @@ CAL
 CALS
 CAM
 CAN
+Capability Maturity Model
 CapsLockキー
 CAPTCHA
+Carbon Copy
+Cartridge Magnetic Tape
+Cascading Style Sheets
+Cassette Magnetic Tape
 CASE
 CASL
 CAS信号
 CASレイテンシ
-CAT (CATegory)
-CAT (Computer Aided Testing)
+CAT
 CAT5
 CAT5e
 CAT6
 CAT7
+CATegory
 CATV
 CATVインターネット
 CBR
 CBT
-CC (Carbon Copy)
-CC (Creative Commons)
+CC
 CCD
 CCENT
 CCIE
@@ -726,8 +737,7 @@ CDMA2000
 CDMA2000 1xEV-DO
 cdmaOne
 CDN
-CDP (Cisco Discovery Protocol)
-CDP (Continuous Data Protection)
+CDP
 CD-R
 CD-ROM
 CD-ROMドライブ
@@ -741,6 +751,7 @@ CDリッピング
 CE
 Celeron
 Celeron M
+cell
 CentOS
 Centrino
 Centrino Duo
@@ -759,6 +770,10 @@ CGS液晶
 CGシリコン液晶
 CHAP
 char型
+characters per inch
+Chief Technology Officer
+Chip Multi-Threading
+Chip Size Package
 Chrome
 CHS
 CI
@@ -774,6 +789,8 @@ CIS
 CISC
 Cisco
 Cisco Catalyst
+Cisco Discovery Protocol
+Cisco Internetworking Operating System
 Cisco IOS
 Cisco-PEAP
 CISO
@@ -782,21 +799,17 @@ Citrix MetaFrame
 Citrix XenDesktop
 CL
 Classic ASP
-CLI (Command Line Interface)
-CLI (Common Language Infrastructure)
+CLI
+client for URL
 CLOB
 CLR
-CMM (Capability Maturity Model)
-CMM (Context Menu Module)
-CMM (Color Management Module)
+CMM
 CMMI
 CMOS
 CMOSセンサー
 CMP
 CMS
-CMT (Cartridge Magnetic Tape)
-CMT (Cassette Magnetic Tape)
-CMT (Chip Multi-Threading)
+CMT
 CMY
 CMYK
 CNAMEレコード
@@ -805,15 +818,23 @@ COCOMO
 CODEC
 Code Red
 CO.JPドメイン
+Color Management Module
 COM
 COM+
+Command Line Interface
 Commandキー
+Common Language Infrastructure
+Communication Satellite
 CompactFlash
 CompactFlash Type II
+Computer Aided Testing
 comドメイン
 COMポート
 Concurrent RDRAM
+Content Scrambling System
 Content-Type
+Context Menu Module
+Continuous Data Protection
 Cookie
 CORBA
 Core 2
@@ -827,18 +848,14 @@ Core i7
 Core Solo
 coreダンプ
 CoS
-CP (コンテンツプロバイダ)
-CP (コンティンジェンシープラン)
-CP (コストパフォーマンス)
+Cost Per Install
+CP
 CPA
 CPAN
 CPC
 CPE
-cpi (characters per inch)
-cpi (cycles per instruction)
-CPI (コスト効率指数)
-CPI (CPR)
-CPI (Cost Per Install)
+cpi
+CPI
 CPI広告
 CPM 
 CPM課金型広告
@@ -861,6 +878,7 @@ CP法
 CR
 Craigslist
 CRC
+Creative Commons
 CRL
 CRLF
 CR/LF
@@ -871,9 +889,9 @@ CRP
 CRT
 CRTディスプレイ
 CRUD
+Cryptographic Service Provider
 CRYPTREC
-CS (Communication Satellite)
-CS (ケーブルセレクト)
+CS
 CScript
 CSF
 CSFB
@@ -881,14 +899,11 @@ CSIRT
 CSL
 CSMA/CA
 CSMA/CD
-CSP (Cryptographic Service Provider)
-CSP (Chip Size Package)
+CSP
 CSR
 CSRF
 CS/RSフロー制御
-CSS (Cascading Style Sheets)
 CSS
-CSS (Content Scrambling System)
 CSS3
 CSSメディアクエリ
 CSV
@@ -896,7 +911,6 @@ CSフォールバック
 CT
 CTI
 CTO
-CTO (Chief Technology Officer)
 C to C
 CTP刷版
 CTP版
@@ -908,8 +922,8 @@ CTS/RTSフロー制御
 CTU
 CUG
 CUI
-Curl ()
-cURL (client for URL)
+Curl
+cURL
 CV
 CVCF
 CVD
@@ -918,6 +932,7 @@ CVR
 CVS
 CVSS
 CWDM
+cycles per instruction
 Cygwin
 CYOD
 C++言語
@@ -929,11 +944,14 @@ DA
 DaaS
 DAC
 Dalvik VM
-DAO (Data Access Object)
-DAO (Disk At Once)
+DAO
 DAP
 DAS
 DAT
+Data Access Object
+Data Circuit terminating Equipment
+Data Loss Prevention
+Data Source Name
 DATファイル
 DAU
 DAW
@@ -947,8 +965,7 @@ DBD攻撃
 DBMS
 DBサーバ
 DC
-DCE (Distributed Computing Environment)
-DCE (Data Circuit terminating Equipment)
+DCE
 DCF
 DC-HSDPA
 DCL
@@ -997,6 +1014,7 @@ Debian GNU/Linux
 Deep Color
 DeleGate
 Deleteキー
+Delivery Status Notification
 Dell
 Delphi
 DEP
@@ -1014,6 +1032,8 @@ DIB
 DICOM
 Diffie-Hellman鍵交換
 Digest認証
+Digital Light Processing
+Digital Subscriber Line
 DIMM
 DIP
 DIPスイッチ
@@ -1022,7 +1042,9 @@ Direct RDRAM
 DirectShow
 DirectX
 DirectX VA
+Disk At Once
 DisplayPort
+Distributed Computing Environment
 distributed.net
 DivX
 DKIM
@@ -1032,8 +1054,7 @@ DLCI
 DLL
 DLNA
 DLNAガイドライン
-DLP (Data Loss Prevention)
-DLP (Digital Light Processing)
+DLP
 DLT
 DMA
 DMAコントローラ
@@ -1067,10 +1088,11 @@ Docker
 Dockコネクタ
 DOCSIS
 DOCTYPE宣言
+Document Object Model
 DOCXファイル
 DOCファイル
-DOM (Document Object Model)
-DOM (Download Only Member)
+DOM
+Domain Specific Language
 DomainKeys
 Domino
 DOS
@@ -1078,6 +1100,7 @@ DOS/V
 DoS攻撃
 DOSプロンプト
 double型
+Download Only Member
 DP
 dpi
 DPOF
@@ -1094,12 +1117,10 @@ DS3
 DSA
 DS-CDMA
 DSD
-DSL (Digital Subscriber Line)
-DSL (Domain Specific Language)
+DSL
 DSLAM
 DSLR
-DSN (Data Source Name)
-DSN (Delivery Status Notification)
+DSN
 DSP
 DSP版
 DSRC
@@ -1161,18 +1182,17 @@ Dチャネル
 E3
 EA
 EAI
-EAP (Early Access Program)
-EAP (PPP Extensible Authentication Protocol)
+EAP
 EAP-PEAP
 EAP-TLS
 EAP-TTLS
+Early Access Program
 EBCDIC
 EBS
 e-business
 ebXML
 EC
 EC2
-ECC (誤り訂正符号)
 ECC
 ECCメモリ
 ECHONET
@@ -1225,15 +1245,19 @@ EMI
 eMMC
 EMOBILE
 EMS
+Encapsulated Security Payload
+End Of Life
+End Of Line
+End User Computing
 Endキー
 Energy Star
 ENIAC
 eNodeB
+Enterprise Search Platform
 Enterキー
 Entity Bean
 EOF
-EOL (End Of Life)
-EOL (End Of Line)
+EOL
 EOR
 EOS
 EOSL
@@ -1243,7 +1267,6 @@ EPP
 EPROM
 EPS
 EPUB
-ERD (システム修復ディスク)
 ERD
 ERP
 ERPパッケージ
@@ -1252,8 +1275,7 @@ eSATA
 ESB
 ESC/P
 Escキー
-ESP (Encapsulated Security Payload)
-ESP (Enterprise Search Platform) 
+ESP
 e-Sports
 ESS
 ESSID
@@ -1268,8 +1290,7 @@ Ethernetフレーム
 Ethernetポート
 ETL
 EU
-EUC (End User Computing)
-EUC (Extended UNIX Code)
+EUC
 EULA
 EUVリソグラフィ
 EV
@@ -1289,6 +1310,7 @@ ExpressCard
 ext2
 ext3
 Extended ATX
+Extended UNIX Code
 EZweb
 eコマース
 Eジャパン構想
@@ -1308,6 +1330,7 @@ Facebook
 FAE
 FAQ
 Fast Ethernet
+Fast EtherChannel
 FAT
 FAT16
 FAT32
@@ -1325,8 +1348,7 @@ FC-SAN
 FCスイッチ
 FD
 FDB
-FDD (Floppy Disk Drive)
-FDD (Frequency Division Duplex)
+FDD
 FDDI
 FDD-LTE
 FDM
@@ -1334,8 +1356,7 @@ FDMA
 FDMI
 FE
 FEAL
-FEC (Forward Error Correction)
-FEC (Fast EtherChannel)
+FEC
 Fedora Core
 FeliCa
 FEM 
@@ -1367,13 +1388,13 @@ FLETS
 Flex
 FlexATX仕様
 float型
+Floppy Disk Drive
 FLOPS
 FLOSS
 Floyd-Steinberg法
 FLSM
 FLV
 FM
-FM (周波数変調)
 FMC
 F/O
 FOMA
@@ -1381,18 +1402,21 @@ FOMAカード
 FOMAハイスピード
 FON
 Fortran 
+Forward Error Correction
 FOSS
 FOTA
 FPD
 FPGA
 FPMPMI
-fps (frame per second)
+fps
 FPS
 FPU
 FP法
 FQDN
 FRAM
+frame per second
 FreeBSD
+Frequency Division Duplex
 FRU
 FS
 FSB
@@ -1413,6 +1437,7 @@ FTTH
 FTTP
 FTTR
 FTサーバ
+function
 Fusion APU
 FW
 FWA
@@ -1516,7 +1541,6 @@ Haswell
 HAクラスタ
 HBA
 HD
-HD (High Definition)
 HD+
 HD Audio
 HDCP
@@ -1548,6 +1572,7 @@ HGW
 Hibernate
 HID
 HIDS
+High Definition
 High-k
 HI-SPEED USB
 HiVision
@@ -1615,15 +1640,14 @@ ICタグ
 ICチップ
 ICメモリ
 ICレコーダー
-ID (identifier)
-iD ()
+iD
 ID
 ID3タグ
 IDC
-IDE (Integrated Drive Electronics)
-IDE (Integrated Development Environment)
+IDE
 IDEA
 IDE RAID
+identifier
 IDN
 IDS
 IE
@@ -1674,7 +1698,6 @@ IKE
 i.LINK
 Illustrator
 iLO
-IM (Instant Message) 
 IM
 IMAP
 IMAP4サーバ
@@ -1689,15 +1712,23 @@ IMT-2000
 IMT-Advanced
 InARP
 inc
+Industrial Standard Architecture bus
 InfiniBand
+Information Network System
+Information Technology
 InfoPath
 infoドメイン
 INIファイル
 InPrivateブラウズ
-INS (Information Network System)
+INS
 Ins
 Insertキー
 InstallShield
+Instant Message
+Instruction Set Architecture
+Instructions Per Clock
+Integrated Development Environment
+Integrated Drive Electronics
 Intel
 Intel 64
 Intel AMT
@@ -1715,23 +1746,25 @@ Intel vPro
 Intel VT
 Intel WiDi
 Intel Xeon
+Intelligent Transport Systems
 Internet Explorer
+Internet Protocol
+InterProcess Communication
 intra-mart
+Intrusion Prevention System
 int型
 Inverse ARP
 I/O
 IOPS
-IOS (Cisco Internetworking Operating System)
+IOS
 iOS
 IoT
 I/Oポート
 I/Oポートアドレス
-IP (Internet Protocol)
 IP
 IPA
 iPad
-IPC (InterProcess Communication)
-IPC (Instructions Per Clock)
+IPC
 ipconfig
 IPCP
 iPhone
@@ -1744,7 +1777,6 @@ IPoE
 IPP
 IP-PBX
 IPR
-IPS (Intrusion Prevention System)
 IPS
 IP-SAN
 IPsec
@@ -1782,8 +1814,7 @@ IrDA
 IRM
 IRQ
 IRU
-ISA (Industrial Standard Architecture bus)
-ISA (Instruction Set Architecture)
+ISA
 ISAPI
 iSCSI
 ISDB-T
@@ -1804,7 +1835,6 @@ ISP
 ISR
 IST
 ISV
-IT (Information Technology)
 IT
 ITa
 Itanium
@@ -1814,7 +1844,7 @@ ITIL
 iTMS
 ITO
 ITRON
-ITS (Intelligent Transport Systems)
+ITS
 iTS
 ITSS
 ITU
@@ -1915,6 +1945,7 @@ JTAG
 JTDファイル
 JUnit
 JVM 
+K Virtual Machine
 KB
 kbps
 kB/s
@@ -1922,6 +1953,7 @@ KDD
 KDDI
 KDE
 Kerberos
+Kernel-based Virtual Machine
 Key-Valueストア
 KFS 
 KGI
@@ -1936,8 +1968,7 @@ KNOPPIX
 KPI
 KSF
 KSLOC
-KVM (K Virtual Machine)
-KVM (Kernel-based Virtual Machine)
+KVM
 KVMスイッチ
 KVS 
 L1
@@ -1972,6 +2003,7 @@ LCDテレビ
 LDA
 LDAP
 LDAPS
+Least Significant Bit
 LED
 LEDディスプレイ
 LEDバックライト
@@ -1993,9 +2025,11 @@ Light Peak
 Li-ion電池
 LILO
 LINE
+link
 LINPACK
 LINQ
 Linux
+Linux Standard Base
 Linuxディストリビューション
 LiPoバッテリー
 LISP
@@ -2013,6 +2047,7 @@ Lotus Notes
 Lotus Notes Domino
 LOVE LETTER 
 Low Profile PCI
+loyalty
 LPAR
 LPCM
 LPDDR
@@ -2024,8 +2059,7 @@ LPR
 LRC
 LRDIMM
 LRU
-LSB (Linux Standard Base)
-LSB (Least Significant Bit)
+LSB
 LSI
 LSIチップ
 LSIメモリ
@@ -2071,19 +2105,22 @@ MagicGate
 mAh
 MAM
 MAN
+Management By Objectives
+Management Buy Out
 MAPI
 MapReduce
 Markdown
+Master Boot Record
+Master Data Management
 MAU
+Maximum Receive Unit
 M/B
 MB
 MBaaS
 MBCS
-MBO (Management By Objectives)
-MBO (Management Buy Out)
+MBO
 Mbps
-MBR (Master Boot Record)
-MBR (Memory Based Reasoning)
+MBR
 MB/s
 MC
 McAfee
@@ -2102,14 +2139,15 @@ MDAC
 MDBファイル
 MDF
 MDF接続
-MDI (Multiple Document Interface)
-MDI (Medium Dependent Interface)
+MDI
 MDI-X
 MDL SAS
-MDM (Mobile Device Management)
-MDM (Master Data Management)
+MDM
 Media Queries
+Medium Dependent Interface
 memcached
+Memory Based Reasoning
+Metal-Oxide-Semiconductor
 MEMS
 MEO
 MES
@@ -2210,6 +2248,7 @@ MNO
 MNP
 MO
 Mobage
+Mobile Device Management
 mobiドメイン 
 MOBIファイル
 MODEM
@@ -2218,10 +2257,10 @@ MODチップ
 MOLAP
 MongoDB
 MOOC
-MOS (Metal-Oxide-Semiconductor)
 MOS
 MOSFET
 MOSS
+Most Recently Used
 MOT
 Motion-JPEG
 MOTIS
@@ -2250,8 +2289,7 @@ MQTT
 MRAM
 MRO
 MRP
-MRU (Maximum Receive Unit)
-MRU (Most Recently Used)
+MRU
 MS
 mSATA
 MSB
@@ -2281,15 +2319,18 @@ MTTR
 MTU
 MU
 MUA
+Multiple Document Interface
+Multiple Virtual Storage
+Multi-Vendor Support
 MVA方式
 MVC
 MVNE
 MVNO
-MVS (Multi-Vendor Support)
-MVS (Multiple Virtual Storage)
+MVS
 M/W
 MXM
 MXレコード
+My Computer
 MySQL 
 N/A
 NACK
@@ -2321,6 +2362,8 @@ NetBT
 Netscape Communications
 netstat
 NetWare
+Network Information Center
+Network Interface Card
 netドメイン
 Nexus
 NFC
@@ -2330,8 +2373,7 @@ NFV
 nginx
 NGN
 NI
-NIC (Network Information Center)
-NIC (Network Interface Card)
+NIC
 NICチーミング
 NIDS
 NIer
@@ -2434,6 +2476,7 @@ OLAP
 OLE 
 OLED
 OLE DB
+OLE for Process Control
 OLEコントロール
 OLS
 OLT
@@ -2441,6 +2484,7 @@ OLTP
 OMAP
 OMG
 OMR
+On-Screen Display
 On2Off
 OneDrive
 OneNote
@@ -2450,8 +2494,11 @@ OOP
 OOX
 OOXML
 OP25B
-OPC (Optimum Power Control)
-OPC (OLE for Process Control)
+OPC
+Open Software Description
+Open Source Definition
+Open Source Initiative
+Open Systems Interconnection
 OpenCL
 OpenFlow
 OpenGISコンソーシアム
@@ -2464,7 +2511,9 @@ OpenStack
 OpenType
 Open XML
 Opera
+operator
 OPS
+Optimum Power Control
 Optionキー
 OR
 Oracle
@@ -2482,12 +2531,9 @@ O/Rマッパー
 O/Rマッピング
 OS
 OS/2
-OSD (Open Software Description)
-OSD (Open Source Definition)
-OSD (On-Screen Display)
+OSD
 OSGi
-OSI (Open Systems Interconnection)
-OSI (Open Source Initiative)
+OSI
 OSI参照モデル
 OSPF
 OSS
@@ -2514,6 +2560,7 @@ P4P
 PaaS
 PACS
 PAD
+page per minute
 PageDownキー
 PageRank
 PageUpキー
@@ -2522,6 +2569,7 @@ PAN
 PanelLink
 PAP
 Pascal
+Passive Double Star
 PASVモード
 PAT
 PATA
@@ -2585,11 +2633,10 @@ PDL
 PDLC
 PDM 
 PDP
-PDS (Public Domain Software)
-PDS (Passive Double Star)
-PDU (Protocol Data Unit)
-PDU (Professional Development Unit)
+PDS
+PDU
 PEAP
+peer to peer
 PEM
 Pentium
 Pentium 4
@@ -2607,6 +2654,7 @@ PFW
 PG
 PGA
 PGP
+Phase Shift Keying
 Phenom
 Photoshop
 PHP
@@ -2625,14 +2673,12 @@ PIO
 PIP
 PK
 PKI
-PL (PL法)
 PL
 PLA
 PlayStation
 PlayStation 2
 PLAYSTATION3
 PlayStation Portable
-PLC (Power Line Communications)
 PLC
 PLCモデム
 PLD
@@ -2641,7 +2687,6 @@ PLL
 PLM
 PL/SQL
 PL法
-PM (プロジェクト管理)
 PM
 PMBOK
 PMO
@@ -2662,19 +2707,21 @@ POF
 POI
 POJO 
 PON
-POP (Post Office Protocol)
+POP
 pop
 POP3S
 POP3サーバ
 POP before SMTP
 POSIX
-POST (Power On Self Test)
 POST
+Post Office Protocol
 Postfix
 PostgreSQL
 PostScript
 POSTメソッド
 POSシステム
+Power Line Communications
+Power On Self Test
 Power over Ethernet
 PowerPC
 PowerPoint
@@ -2683,10 +2730,11 @@ PP
 PPC
 PPC広告
 ppi
-ppm (page per minute)
-PPM (Product Portfolio Management)
+ppm
+PPM
 PPP
 PPP EAP
+PPP Extensible Authentication Protocol
 PPPoA
 PPPoE
 PPPoEブリッジ
@@ -2697,10 +2745,15 @@ PPTXファイル
 PPTファイル
 PPV
 PRAM
+Pre-Shared Key
 PRI
 PrintScreenキー
 PRL
+processor
+Product Portfolio Management
+Professional Development Unit
 PROM
+Protocol Data Unit
 Proxy ARP
 PR版
 PS
@@ -2712,17 +2765,17 @@ PS/2マウス
 PS3
 PSDファイル
 PSHフラグ
-PSK (Phase Shift Keying)
-PSK (Pre-Shared Key)
+PSK
 PSP
 PSTN
 PSU
-PT (システムテスト)
 PT
 pt
 PTF
+P to P
 PTP
 PTRレコード
+Public Domain Software
 PUE
 push flag
 PV
@@ -2741,7 +2794,6 @@ QCIF
 QCT
 QFHD
 QFP
-QHD (Quadruple/Quarter High Definition)
 QHD
 QHD+ 
 Qi
@@ -2755,6 +2807,7 @@ QSXGA
 QT 
 Quad-VGA
 Quad-XGA
+Quadruple/Quarter High Definition
 QuickTime
 quoted-printable
 QUXGA
@@ -2784,13 +2837,13 @@ RAMディスク
 RAMモジュール
 RAR
 RARP
-RAS (Remote Access Service)
-RAS (Reliability Availability Serviceability)
+RAS
 RASIS
+Raster Image Processor
 RASサーバ
 RAS信号
-RAW (Read After Write)
-RAW (RAWデータ)
+RAW
+RAWデータ
 RBL
 RC2
 RC4
@@ -2808,15 +2861,23 @@ RDP
 RDRAM
 RDS
 ReachDSL
+Read After Write
+Read Only Memory
+Read Only Member
 ReadyBoost
 Red Hat Linux
+RedHat Package Manager
 Redis
 RegEdit
+registry
+Reliability Availability Serviceability
+Remote Access Service
 Rendezvous
 REST
 RESTful API
 Retinaディスプレイ
 Returnキー
+revolutions per minute
 RF
 RFC
 RFI
@@ -2832,8 +2893,7 @@ RIA
 RIFF
 Rijndael
 RIMM
-RIP (Raster Image Processor)
-RIP (Routing Information Protocol)
+RIP
 RISC
 RJ-11
 RJ-45
@@ -2849,16 +2909,17 @@ ROE
 RoHS指令
 ROI
 ROLAP
-ROM (Read Only Memory) 
-ROM (Read Only Member)
+ROM
 root
 rootkit
 root化
 RoR
+Routing Information Protocol
+royalty
 RPC
 RPG
-rpm (revolutions per minute)
-RPM (RedHat Package Manager)
+rpm
+RPM
 RPO
 RP版
 RR
@@ -2891,14 +2952,12 @@ Ruby
 Ruby on Rails
 RWD
 RWIN 
-SA (Security Association)
 SA
 SaaS
 SACD
 Safari
 Salesforce.com
-SAM (Security Account Manager)
-SAM (Sequential Access Method)
+SAM
 Samba
 SAML
 SAN
@@ -2909,8 +2968,7 @@ SAO
 SAP
 SAP R/3
 SAR
-SAS (Serial Attached SCSI)
-SAS (Statistical Analysis System)
+SAS
 SASI
 Sass
 SAStruts
@@ -2924,14 +2982,15 @@ SATA II
 SATA III
 SATA M.2
 SAX
-SBC (Single Board Computer)
-SBC (Session Border Controller)
-SBC (Server-Based Computing)
+SBC
 SBCS
 SBM
 SBY系
 Scala
+scanner
 SCC
+Schedule Performance Index
+scheme
 Scheme
 SCM
 SCP
@@ -2943,8 +3002,8 @@ SCSI-3
 SCSIカード
 SCSL
 SCSS
-SD (SDメモリーカード)
-SD (Standard Definition)
+SD
+SDメモリーカード
 SDH
 SDHCメモリーカード
 SDI
@@ -2960,6 +3019,9 @@ SDスピードクラス
 SDメモリーカード
 SE
 Seasar
+Security Account Manager
+Security Association
+Security IDentifier
 sed
 self-extract format
 SEM
@@ -2969,14 +3031,18 @@ SEO
 SEOスパム
 SEOポイズニング
 SEP
+Sequential Access Method
 Serial ATA
 Serial ATA 1.0
 Serial ATA 3.0
 Serial ATA/600
+Serial Attached SCSI
 SERP
+Server-Based Computing
 Servletコンテナ
 SES
 Session Bean
+Session Border Controller
 setterメソッド
 setアクセサ
 SFA
@@ -2998,7 +3064,6 @@ Shiftキー
 Shockwave
 SI
 SID
-SID (Sercurity IDentifier)
 SIer
 SIG
 SiGe
@@ -3009,6 +3074,7 @@ SIMカード
 SIMロック
 SIMロックフリー
 SINET
+Single Board Computer
 SIP
 SIPS
 SIPサーバ
@@ -3085,6 +3151,7 @@ SoftEther
 SOHO
 SOI
 Solaris
+Solid State Hybrid Drive
 Solr
 SONET
 SONET/SDH
@@ -3103,8 +3170,7 @@ SPEC
 SpeedStep
 SPF
 SPF/Sender ID
-SPI (Stateful Packet Inspection)
-SPI (Schedule Performance Index)
+SPI
 SPLA
 SPOF
 SPP
@@ -3127,8 +3193,9 @@ SSD
 SSE
 SSE2
 ssh
-SSHD (Solid State Hybrid Drive)
-sshd (ssh daemon)
+ssh daemon
+SSHD
+sshd
 SSI
 SSID
 SSIDステルス
@@ -3142,13 +3209,15 @@ SSP
 sSpec
 SSSE3
 ST
+Standard Definition
 STARTTLS
+Stateful Packet Inspection
 static変数
+Statistical Analysis System
 STB
 STD
 STL
-STM (Synchronous Transport Module)
-STM (Synchronous Transfer Mode)
+STM
 STP
 STR
 String型
@@ -3181,6 +3250,8 @@ SXGA+
 Sybase
 SYLKファイル
 Symantec Endpoint Protection
+Synchronous Transport Module
+Synchronous Transfer Mode
 SYNスキャン
 SYNパケット
 SYNフラッド攻撃
@@ -3228,10 +3299,12 @@ TeX
 TFLOPS
 TFTP
 TFT液晶
+Third Person Shooter
 ThumbDrive
 Thunderbird
 Thunderbolt
 TIFF
+Time To Live
 Timeサーバ
 Tivoli
 Tizen
@@ -3241,6 +3314,7 @@ TLC
 TLD
 TLS
 TMDS
+tmpファイル
 TOB
 To-Be
 TOE
@@ -3253,12 +3327,13 @@ Toフィールド
 TP
 TPC 
 TPM
-TPS (Third Person Shooter)
-TPS (Transactions Per Second)
+TPS
 TPモニタ
 traceroute
 Transact-SQL
+Transactions Per Second
 TransferJet
+Transistor-Transistor Logic
 Tripwire
 TRON
 TRS
@@ -3273,8 +3348,7 @@ TSV
 TSファイル
 TTC
 TTF
-TTL (Time To Live)
-TTL (Transistor-Transistor Logic)
+TTL
 TTY
 Turbo Boost
 Turbo CORE
@@ -3483,7 +3557,6 @@ VxWORKS
 W3C
 WAF
 WAN
-WAP (Wireless Application Protocol)
 WAP
 WAR
 Warez
@@ -3491,8 +3564,7 @@ WAS
 WAV
 WAVEファイル
 WBS
-WBT (Windows-Based Terminal)
-WBT (Web Based Training)
+WBT
 WCAG
 W-CDMA
 WDM
@@ -3501,6 +3573,7 @@ WDT
 Web
 Web 2.0
 Web API
+Web Based Training
 WebDAV
 Web-EDI
 WebGL
@@ -3591,6 +3664,7 @@ Windows 95
 Windows 98
 Windows Aero
 Windows Azure
+Windows-Based Terminal
 Windows CE
 Windows Defender
 Windows Forms
@@ -3634,6 +3708,7 @@ WINS
 WinSCP
 Winsock
 Wintel
+Wireless Application Protocol
 WirelessHD
 Wireless LAN SD
 Wireless MAN
@@ -3811,7 +3886,6 @@ Zバッファ法
 アクションRPG
 アクセサ
 アクセシビリティ
-アクセス (access)
 アクセス
 アクセスアーム
 アクセス解析
@@ -3860,7 +3934,6 @@ Zバッファ法
 アスキーアート
 アスキーコード 
 アスキー文字
-アスタリスク (asterisk)
 アスタリスク
 アスペクト指向プログラミング
 アスペクト比
@@ -4044,8 +4117,7 @@ Zバッファ法
 一意制約
 一次記憶装置
 一次キャッシュ
-一時ファイル (tmpファイル)
-一時ファイル (cache file)
+一時ファイル
 一時フォルダ
 一次プロバイダ
 一斉送信
@@ -4309,8 +4381,7 @@ Zバッファ法
 エッジスイッチ 
 エッジトリガ方式
 エッジルータ
-エディ (EDI)
-エディ (Edy)
+エディ
 エディション
 エディタ
 エナジースター
@@ -4479,7 +4550,6 @@ Zバッファ法
 オペレーション
 オペレーションテスト
 オペレータ
-オペレータ (operator)
 オペレーティングシステム 
 オムニチャネル
 親クラス
@@ -4623,8 +4693,7 @@ Zバッファ法
 仮想記憶
 画像形式
 仮想現実
-仮想サーバ (バーチャルホスト)
-仮想サーバ (ポート開放)
+仮想サーバ
 仮想CD/DVD
 仮想商店街
 仮想専用サーバ
@@ -5519,6 +5588,348 @@ Zバッファ法
 サンプリング周波数
 サンプリング定理
 サンプリングビット数 
+四位相偏移変調
+シェア
+シェアウェア
+シェアドアクセス
+シェアードサービス
+シェアードハブ
+シェアードメモリ
+シェアードライブラリ
+シェイプ
+ジェイルブレイク
+シェーディング
+ジェネラルレジスタ
+ジェネリックトップレベルドメイン
+ジェネレータ
+シェーピング
+シェル
+シェルスクリプト
+シェルソート
+ジオターゲティング
+ジオメトリ処理
+死活監視
+時間計算量
+しきい値
+磁気ディスク
+磁気テープ
+識別子
+事業継続
+事業継続計画
+事業部制組織
+シーク
+シークタイム
+シグナル
+シグネチャ
+シグネチャコード
+シークバー
+シークレットモード
+シーケンサーソフト
+シーケンシャル
+シーケンシャルアクセス
+シーケンス
+シーケンス図
+シーケンスチェック
+シーケンス番号
+自己解凍形式
+自己解凍ファイル
+時刻サーバ
+自己資本利益率
+自己割り当てIPアドレス
+事実上の標準
+辞書
+辞書攻撃
+自炊
+シスコシステムズ
+システム
+システムLSI
+システムアドミニストレータ
+システムインテグレーション
+システムインテグレータ
+システムインフラ
+システムインフラ構築
+システムエンジニア
+システムエンジニアリングサービス
+システム化計画
+システム監査
+システム監査技術者試験
+システム監査人
+システム管理者
+システムキャッシュ
+システムグローバル領域
+システム構成
+システム構築
+システムコール
+システムコンサルタント
+システム修復ディスク
+システム準備ツール
+システム障害
+システム生成
+システムソフトウェア
+システムソリューション
+システムダウン
+システムテスト
+システム統合テスト
+システムトレイ
+システムバスクロック
+システムファイル
+システム方式設計
+システムモダナイゼーション
+システムリソース
+システムログ
+施設設置負担金
+事前共有鍵
+シソーラス
+自治体クラウド
+シッククライアント
+実行
+実行時エラー
+実行時コンパイラ
+実行時ライブラリ
+実効スループット
+実行ファイル
+実コスト
+実数型
+実装
+ジッタ
+実体
+実体関連図
+実引数
+ジップ形式
+実メモリ
+視点座標系 
+自動音声応答
+自動原稿送り装置
+自動保存
+シトリックス
+シノニム
+シフト
+シフトJISコード
+シフトキー
+時分割多元接続
+時分割多重
+島ハブ
+シミュレーション
+シミュレータ
+シームレス
+指紋認証
+ジャイロスコープ
+射影
+視野角
+ジャギー
+ジャクソン法
+シャーシ
+ジャスティファイ
+ジャストインタイムコンパイラ
+シャットダウン
+シャッフル再生
+シャドーIT
+シャドウコピー
+社内ポータル
+ジャーナリング
+ジャーナリングファイルシステム
+ジャーナル
+ジャバスクリプト
+ジャム
+ジャンクメール
+ジャンクメールフィルタ
+ジャンパスイッチ
+ジャンパピン
+ジャンパプラグ
+ジャンパブロック
+ジャンボフレーム
+私有鍵
+住基ネット
+集合型
+修飾キー
+十進数
+修正モジュール
+集積回路
+終端抵抗
+集中処理
+自由電子
+周波数
+周波数オークション
+周波数帯域
+周波数分割多重
+周波数偏移変調
+周波数変調
+周波数ホッピング方式
+修復
+修復インストール
+周辺機器
+住民基本台帳カード
+住民基本台帳ネットワーク
+集約
+重要成功要因
+縦横比
+従量制
+十六進数
+主キー
+主記憶装置
+縮退運転
+受託開発
+出稿期間保証型広告
+出力
+出力装置
+シューティングゲーム
+主配電盤
+守秘義務契約
+主要成功要因
+シュリンク
+シュリンクラップ契約
+巡回冗長検査
+巡回セールスマン問題
+循環バッファ
+純広告
+順次アクセス
+順次走査
+順番検査
+ジョイスティック
+上位互換
+障害
+使用許諾契約
+条件演算子
+条件式
+条件分岐
+詳細設計
+昇順
+仕様書
+状態遷移図
+常駐業務
+常駐プログラム
+冗長化
+冗長構成
+冗長性
+衝突
+承認テスト
+商品ライフサイクル
+情報
+情報エントロピー
+情報落ち
+情報科 
+
+    
+
+情報家電
+情報キオスク
+情報技術
+情報系システム
+情報コンセント
+情報サービス産業協会
+情報システム
+情報システム化計画
+情報システム監査
+情報システム監査人
+情報システム構築
+情報弱者
+情報処理技術者試験
+情報処理推進機構
+情報セキュリティポリシー
+情報セキュリティマネジメントシステム
+情報通信技術
+情報通信技術委員会
+情報提供依頼書
+情報モラル
+情報リテラシー
+情報漏洩ウイルス
+静脈認証
+証明書署名要求
+商用データベース
+上流CASEツール
+上流工程
+初期化
+初期コスト
+書き込み不可
+初期設定
+初期値
+色の三原色
+書式
+書式検査
+書体
+ショッピングカート
+ショートカット
+ショートカットキー
+ショートピン
+ショートメッセージサービス
+ジョブ
+ジョブ制御言語
+ジョブネット
+署名
+ショルダーハック
+ショールーミング
+シリアライズ
+シリアル
+シリアルATA
+シリアルATA2
+シリアルATA3
+シリアルインターフェース
+シリアルケーブル
+シリアル値
+シリアル通信
+シリアルナンバー
+シリアルプリンタ
+シリアルポート
+シリコンウェハ
+シリコーングリス
+シリコンゲルマニウム
+シリコンサイクル
+シリコンダイ
+シリコンディスク
+シリコンバレー
+自律システム
+シリンダ
+シールドケーブル
+白ロム
+真偽値
+シンクライアント
+シングルエンド
+シングルコア
+シングルコアプロセッサ
+シングルサインオン
+シングルスレッド
+シングルセッション
+シングルタスク
+シングルチップマイコン
+シングルテナント
+シングルパスカラー方式
+シングルポイント障害
+シングルボードコンピュータ
+シングルモード光ファイバー
+シングルユーザモード
+シングルリンク
+シンクロナイゼーション
+シンクロナスDRAM
+人工現実
+人工知能
+深層Web
+シンタックス
+シンタックスエラー
+伸張
+侵入
+侵入検知システム
+侵入テスト
+侵入防止システム
+振幅変調
+シンプルボリューム
+シンプレックス
+シンプレックスシステム
+シンプレックス通信
+シンプロビジョニング
+シンボリックデバッガ
+シンボリックリンク
+信頼性
+真理値
+真理値表 
+
+
+
+
+
+
+
+
+
 垂直磁気記録方式
 垂直走査周波数
 垂直同期周波数
@@ -5542,9 +5953,7 @@ Zバッファ法
 スキーマ言語
 スキミング
 スキーム
-スキーム (scheme)
 スキャナ
-スキャナ (scanner)
 スキャン
 スキャンコンバータ
 スキャンレート
@@ -5824,7 +6233,7 @@ Zバッファ法
 セマフォ
 セマンティックWeb
 セミコンダクタ
-セル (cell)
+セル
 セールスエンジニア
 セールスフォース・ドットコム
 セル生産方式
@@ -7083,8 +7492,7 @@ Zバッファ法
 汎用レジスタ 
 ピア
 非アクティブウィンドウ
-ピアツーピア (P to P)
-ピアツーピア (peer to peer)
+ピアツーピア
 ヒアドキュメント
 ピアリング
 ピアレビュー
@@ -7262,7 +7670,6 @@ Zバッファ法
 ファームウェアアップデート
 ファームバンキング
 ファンクション
-ファンクション (function)
 ファンクションキー
 ファンクションテスト
 ファンクションポイント法
@@ -7574,6 +7981,7 @@ Zバッファ法
 プロジェクター
 プロジェクト
 プロジェクト憲章
+プロジェクト管理
 プロジェクトマネジメント
 プロジェクトマネジメントオフィス
 プロジェクトマネジメントプロフェッショナル
@@ -7587,7 +7995,6 @@ Zバッファ法
 プロセスイノベーション
 プロセス間通信
 プロセッサ
-プロセッサ (processor)
 プロセッサクーラー
 プロセッサコア
 プロセッサ時間
@@ -7891,7 +8298,6 @@ Zバッファ法
 マイクロプロセッサコア
 マイクロペイメント
 マイコン
-マイコンピュータ (My Computer)
 マイコンピュータ
 マイナーバージョンアップ
 マイミク
@@ -8500,7 +8906,6 @@ Zバッファ法
 リロード
 リンカ
 リンク
-リンク (link)
 リンクアグリゲーション
 リンクアップ
 リング型ネットワーク
@@ -8576,7 +8981,7 @@ Zバッファ法
 レジスタ
 レジスタードメモリ
 レジストラ
-レジストリ (registry)
+レジストリ
 レジストリエディタ
 レジストリキー
 レジューム
@@ -8608,8 +9013,7 @@ Zバッファ法
 連邦情報処理標準
 連邦通信委員会 
 ローアクティブ
-ロイヤリティ (loyalty)
-ロイヤリティ (royalty)
+ロイヤリティ
 ロイヤリティフリー
 漏話
 ローエンドモデル
